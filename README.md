@@ -1,4 +1,4 @@
-# AI-Playground
+# AI-Visionary-Lab
 
 ## Supervised Learning
 |Title|Keywords|Dataset|
